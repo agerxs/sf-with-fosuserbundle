@@ -14,3 +14,9 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+.sports-data-streaks.iml
+/.sports-data-streaks.iml
+.idea/
+/.idea/
+/idea/*
+idea
